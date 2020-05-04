@@ -10,7 +10,7 @@ How to run this app?
 
 How to use it?
   1) Use the four buttons to increment or decrement the counter value
-  2) See the updated reulted above these buttons in the header
+  2) See the updated reulted as soon as you hit one of these buttons
   3) Hit the "Store couter button" to save the current counter value and view it as list of cards below
   4) Click on cross arrows to delete the specific card
 
